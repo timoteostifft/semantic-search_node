@@ -3,5 +3,9 @@
     "@types/node": "^20.5.0",
     "tsx": "^3.12.7",
     "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "langchain": "^0.0.129",
+    "redis": "^4.6.7"
   }
 }
