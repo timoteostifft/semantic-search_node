@@ -1,3 +1,4 @@
+import 'dotenv/config'
 import path from 'node:path'
 import { DirectoryLoader } from 'langchain/document_loaders/fs/directory'
 import { JSONLoader } from 'langchain/document_loaders/fs/json'
