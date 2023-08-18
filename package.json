@@ -5,6 +5,7 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
+    "dotenv": "^16.3.1",
     "langchain": "^0.0.129",
     "redis": "^4.6.7"
   }
