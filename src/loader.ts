@@ -20,7 +20,7 @@ async function load() {
 
   const splitter = new TokenTextSplitter({
     encodingName: 'cl100k_base',
-    chunkSize: 1,
+    chunkSize: 10,
     chunkOverlap: 0
   })
 
